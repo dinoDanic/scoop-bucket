@@ -1,0 +1,29 @@
+{
+    "version": "0.3.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/dinoDanic/diny/releases/download/v0.3.2/diny_Windows_i386.zip",
+            "bin": [
+                "diny.exe"
+            ],
+            "hash": "6945e36e76d161aab2b985f41069aaf00960dee26fc9d77c3b68ed8823293910"
+        },
+        "64bit": {
+            "url": "https://github.com/dinoDanic/diny/releases/download/v0.3.2/diny_Windows_x86_64.zip",
+            "bin": [
+                "diny.exe"
+            ],
+            "hash": "f13de6fcb1e79b89cb4f99a3f465d17ad10b6146d85de7b39c6f5bbf9ebd6ad3"
+        },
+        "arm64": {
+            "url": "https://github.com/dinoDanic/diny/releases/download/v0.3.2/diny_Windows_arm64.zip",
+            "bin": [
+                "diny.exe"
+            ],
+            "hash": "108d20c015497b424bfbcfb3d3b23af69a000689b8b6b82446afaf21ae349373"
+        }
+    },
+    "homepage": "https://github.com/dinoDanic/diny",
+    "license": "MIT",
+    "description": "🦕 Generate meaningful commit messages from git diff"
+}
