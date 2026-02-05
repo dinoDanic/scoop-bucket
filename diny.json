@@ -1,26 +1,26 @@
 {
-    "version": "0.5.2-2",
+    "version": "0.5.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/dinoDanic/diny/releases/download/v0.5.2-2/diny_Windows_i386.zip",
+            "url": "https://github.com/dinoDanic/diny/releases/download/v0.5.3/diny_Windows_i386.zip",
             "bin": [
                 "diny.exe"
             ],
-            "hash": "069ddd68729d5dd99a0f907d4f12673723f4a24251871ef4f03e01e4b73e40eb"
+            "hash": "a73f98267a4010a4149cbfb5d13ca8c4bff4bd014c261b3b300bf32de1c5efe0"
         },
         "64bit": {
-            "url": "https://github.com/dinoDanic/diny/releases/download/v0.5.2-2/diny_Windows_x86_64.zip",
+            "url": "https://github.com/dinoDanic/diny/releases/download/v0.5.3/diny_Windows_x86_64.zip",
             "bin": [
                 "diny.exe"
             ],
-            "hash": "f9dbfc48a854964723b18f4d2daa4ccbd0a7c7ce84c634ff2fca9020aad6651b"
+            "hash": "3971bfb95520378f785198f3a516fde411bb399a6005bbbbde34bc717c08d577"
         },
         "arm64": {
-            "url": "https://github.com/dinoDanic/diny/releases/download/v0.5.2-2/diny_Windows_arm64.zip",
+            "url": "https://github.com/dinoDanic/diny/releases/download/v0.5.3/diny_Windows_arm64.zip",
             "bin": [
                 "diny.exe"
             ],
-            "hash": "78a77652e2db2414309556e8d8eb515e74734960b2c95ac9e36de11bcbb15d5d"
+            "hash": "42d44c477a414b1f55a160fca2ca347d2fe37de0169d1d0221d5e4858409849f"
         }
     },
     "homepage": "https://github.com/dinoDanic/diny",
